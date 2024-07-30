@@ -1,11 +1,13 @@
 <div>
-  <img src="" wodth="100" />
+  <img src="" width="100" />
 </div>
 <h1>Yo! 👋</h1>
 <h3>About me</h3>
 <p>My name is Maciej Pieczykolan and I'm a student from Poland. I would love to code with you!</p>
 
-<h3>📈 Stats</h3>
+### :computer: Technologies :wrench:
+
+### :chart_with_upwards_trend: Stats
 
 
 <!--
@@ -22,5 +24,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
