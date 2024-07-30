@@ -1,4 +1,5 @@
-## Hi there, I'm Maciek! 👋
+## Hello there! 👋
+My name is Maciej Pieczykolan. I'm from Poland and i would love to code with you!
 
 <!--
 **MaciekPie/MaciekPie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
