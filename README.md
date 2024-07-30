@@ -8,6 +8,7 @@
 ### :computer: Technologies :wrench:
 
 ### :chart_with_upwards_trend: Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MaciekPie&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 <!--
