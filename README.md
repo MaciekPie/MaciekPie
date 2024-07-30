@@ -9,7 +9,7 @@
 <h2>📈 Stats</h2>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MaciekPie&theme=tokyonight-duo&background=34295E" alt="GitHub Streak" /></a>
-![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=MaciekPie)](https://git.io/streak-stats)
 
 
 
