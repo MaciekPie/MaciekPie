@@ -1,5 +1,13 @@
-### Hello there! 👋
+<div>
+  <img src="" wodth="100" />
+</div>
+## Yo! 👋
+
+- About me
 My name is Maciej Pieczykolan and I'm a student from Poland. I would love to code with you!
+
+- 📈 Stats
+
 
 <!--
 **MaciekPie/MaciekPie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
