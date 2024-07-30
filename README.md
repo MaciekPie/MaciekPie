@@ -1,12 +1,11 @@
 <div>
   <img src="" wodth="100" />
 </div>
-## Yo! 👋
+<h1>Yo! 👋</h1>
+<h3>About me</h3>
+<p>My name is Maciej Pieczykolan and I'm a student from Poland. I would love to code with you!</p>
 
-- About me
-My name is Maciej Pieczykolan and I'm a student from Poland. I would love to code with you!
-
-- 📈 Stats
+<h3>📈 Stats</h3>
 
 
 <!--
