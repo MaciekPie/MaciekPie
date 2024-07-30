@@ -6,8 +6,8 @@
 <p>My name is Maciej Pieczykolan and I'm a student from Poland. I would love to code with you!</p>
 
 <h2>💻 Technologies 🔧</h2>
-<h2>💻 Stats</h2>
-### :chart_with_upwards_trend: Stats
+<h2>📈 Stats</h2>
+
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MaciekPie&theme=nightowl&background=65445A" alt="GitHub Streak" /></a>
 
 <!--
