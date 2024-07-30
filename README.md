@@ -4,7 +4,7 @@
 <h1>Yo! 👋</h1>
 <h3>About me</h3>
 <p>My name is Maciej Pieczykolan and I'm a student from Poland. I would love to code with you!</p>
-
+<h2>💻 Technologies </h2>
 ### :computer: Technologies :wrench:
 
 ### :chart_with_upwards_trend: Stats
