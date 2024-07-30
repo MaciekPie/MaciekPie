@@ -2,7 +2,7 @@
   <img src="" width="100" />
 </div>
 <h1>Yo! 👋</h1>
-<h3>About me</h3>
+<h2>About me</h2>
 <p>My name is Maciej Pieczykolan and I'm a student from Poland. I would love to code with you!</p>
 
 <h2>💻 Technologies 🔧</h2>
