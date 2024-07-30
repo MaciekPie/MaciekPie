@@ -8,8 +8,7 @@
 ### :computer: Technologies :wrench:
 
 ### :chart_with_upwards_trend: Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MaciekPie&theme=dark&background=000000)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=&theme=nightowl&background=65445A" alt="GitHub Streak" /></a>
 
 <!--
 **MaciekPie/MaciekPie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
