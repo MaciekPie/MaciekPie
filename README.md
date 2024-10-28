@@ -1,5 +1,5 @@
 <div>
-  <img src="background.jpg" width="100" />
+  <img src="" width="100" />
 </div>
 <h1>Yo! 👋</h1>
 <h2>About me</h2>
